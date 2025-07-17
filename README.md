@@ -17,7 +17,7 @@ A simple console-based Hotel Management System written in C++ for managing room 
 ## 🚀 How to Run
 
 1. Open this project in any C++ IDE (e.g., CodeBlocks, Dev C++, or Visual Studio)
-2. Compile and run `hotel_management.cpp`
+2. Compile and run `hotel_management_system.cpp`
 3. Follow the on-screen menu
 ## 📸 Screenshots 
 # Menue
